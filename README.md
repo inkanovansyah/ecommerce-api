@@ -6,7 +6,7 @@ Proyek ini mengikuti arsitektur **layered architecture** (Controller → Service
 ---
 
 ## 🔧 Tech Stack
-- Java 17+
+- Java 21+
 - Spring Boot
 - Spring Data JPA / Hibernate
 - Maven
